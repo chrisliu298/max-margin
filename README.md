@@ -1,1 +1,1 @@
-# pytorch-svm
+# max-margin
